@@ -11,5 +11,5 @@ Run install.bat then once all the modules are installed run run.bat
 
 YOU NEED THE NODE.JS https://nodejs.org/en/download/
 
-![Nitro Example](https://prnt.sc/yyrn4EQPiHvR)
-![Classic Example](https://prnt.sc/q5HdT2YaS2z4)
+![Nitro Example](https://i.imgur.com/wmY6XKq.png)
+![Classic Example](https://i.imgur.com/i8H72L1.png)
